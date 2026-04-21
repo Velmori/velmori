@@ -1,92 +1,106 @@
-<!-- Premium Header -->
+<!-- Header Banner -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Andrew%20Mori&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Andrew%20Mori&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">Hi 👋</h1>
-<h3 align="center">Lead Software Engineer — Frontend Systems · AI · Performance</h3>
+<h1 align="center">Hi 👋, I'm Andrew Mori</h1>
+<h3 align="center">Lead Software Engineer — Frontend Systems | AI | Performance</h3>
 
 <p align="center">
-  Building high-performance products used by <b>100K+ users</b><br/>
-  Focused on frontend architecture, design systems, and performance engineering
-</p>
-
----
-
-## ⚡ Impact
-
-<p align="center">
-  🚀 <b>35–50% faster load times</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-  📈 <b>+25–40% engagement</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-  ⚡ <b>30% faster development</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-  🤖 <b>40%+ automation gains</b>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Velmori&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velmori&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  Building high-performance AI & Web3 systems used by <b>100K+ users</b>
 </p>
 
 ---
 
-## 🧠 Expertise
+## 🚀 About Me
+
+* ⚡ Build **high-performance frontend systems**
+* 🤖 Develop **AI-powered automation (LLMs)**
+* 📊 Focus on **real product impact (metrics-driven)**
+* 🧠 Passionate about **architecture, UX, and scalability**
+
+---
+
+## 📈 Impact
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,graphql,postgres,redis,solidity&perline=8" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Velmori" />
 </p>
 
+* 🚀 **35–50% faster load times**
+* 📈 **+25–40% engagement**, **+15% conversion**
+* ⚡ **30% faster development cycles**
+* 🤖 **40%+ reduction in manual workflows**
+
+---
+
+## 🧠 Tech Stack
+
 <p align="center">
-Frontend Architecture · Performance Optimization · Design Systems · AI Integration · Scalable Systems
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,graphql,postgres,redis,solidity" />
 </p>
 
 ---
 
-## 🏆 Selected Systems
+## 🏆 Featured Work
 
 ### 🔹 LLM Workflow Automation Engine
 
-AI-powered workflow automation using LLM pipelines and API orchestration
-→ Reduced manual operations by **40%+**
-→ Real-time scalable execution architecture
+AI-powered system for automating workflows using LLM pipelines
+
+* Reduced manual operations by **40%+**
+* Real-time automation pipelines
+* Scalable backend architecture
 
 ---
 
 ### 🔹 High-Performance Web Platform
 
-Frontend system optimized for speed, scalability, and UX
-→ **35–50% faster load times**
-→ **+25–40% engagement increase**
-→ Design system enabling rapid iteration
+Frontend system optimized for speed and UX
+
+* **35–50% faster load times**
+* **+25–40% engagement increase**
+* Built scalable design system
 
 ---
 
 ### 🔹 Web3 Transaction System
 
-Full-stack blockchain application with secure transaction flows
-→ Wallet authentication and smart contract interaction
-→ Scalable frontend and backend architecture
+Blockchain-integrated full-stack application
+
+* Wallet authentication & transactions
+* Smart contract integration
+* Secure and scalable architecture
 
 ---
 
-## 🎯 Philosophy
+## 📊 GitHub Stats
 
 <p align="center">
-  <i>Build fast · Measure deeply · Optimize relentlessly · Ship with impact</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=Velmori&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velmori&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
 
 ## 📫 Contact
 
-<p align="center">
-  📧 <b>andy.m.pro74@gmail.com</b>
-</p>
+📧 [andy.m.pro74@gmail.com](mailto:andy.m.pro74@gmail.com)
 
 ---
 
-<!-- Footer -->
+## ⚡ Philosophy
+
+> Build fast.
+> Measure everything.
+> Optimize what matters.
+> Ship systems that drive real impact.
+
+---
+
+<!-- Footer Wave -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
